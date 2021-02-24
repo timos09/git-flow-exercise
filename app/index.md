@@ -18,6 +18,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
 
-### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
+### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine 1
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
